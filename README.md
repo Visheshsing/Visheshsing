@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Visheshsing/Visheshsing/main/Banner.png" width="100%" alt="Banner">
 </p>
-# 👋 Hi, I'm Vishesh Singh
+<h3><strong>👋 Hi, I'm Vishesh Singh</strong></h3>
 
 ### AI / ML Engineer | Data Scientist | Data Analyst
 
@@ -13,7 +13,7 @@ Building intelligent AI solutions using **Machine Learning**, **Generative AI**,
 
 ---
 
-# 👨‍💻 About Me
+<h3><strong>👨‍💻 About Me </strong></h3> 
 
 🎓 **B.Tech in Computer Science**
 
