@@ -31,7 +31,7 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 
 # 🌱 Currently Learning
 
-<div align="center">
+<div align="left">
 
 <p>
 <img src="https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white"/>
