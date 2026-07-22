@@ -120,7 +120,7 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 
 <div align="center">
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
@@ -128,194 +128,82 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 
 ---
 
-## 📊 Data Analytics & Visualization
+### 📊 Data Analytics
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,plotly,powerbi" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-**Also Experienced In**
-
-- Microsoft Excel
-- Power Query
-- DAX
-- KPI Reporting
-- Dashboard Design
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Business Intelligence
 
 ---
 
-## 🤖 Machine Learning
+### 🤖 Machine Learning
 
 <p>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clustering-9C27B0?style=for-the-badge"/>
 </p>
-
-### Skills
-
-- Regression
-- Classification
-- Clustering
-- Recommendation Systems
-- Feature Engineering
-- Model Evaluation
-- Hyperparameter Tuning
-- Cross Validation
-- Ensemble Learning
 
 ---
 
-## 🧠 Deep Learning
+### 🧠 Deep Learning
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/CNN-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FF9800?style=for-the-badge"/>
 </p>
-
-### Experience
-
-- Artificial Neural Networks
-- CNN
-- RNN
-- LSTM
-- Transformers
-- Transfer Learning
 
 ---
 
-## 💬 Natural Language Processing
+### 💬 NLP & Generative AI
 
 <p>
-
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-
-</p>
-
-### Worked On
-
-- Text Classification
-- Sentiment Analysis
-- Text Summarization
-- Tokenization
-- Named Entity Recognition
-- Embeddings
-- Semantic Search
-
----
-
-## 🚀 Generative AI
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker"/>
-
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LangGraph-6E57E0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/>
 </p>
-
-### Expertise
-
-- AI Agents
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- LLM Applications
-- Conversational AI
 
 ---
 
-## ⚙️ MLOps & Deployment
+### ⚙️ MLOps & Deployment
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,aws"/>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=docker,aws,fastapi" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"/>
 </p>
-
-### Familiar With
-
-- Model Deployment
-- Experiment Tracking
-- Version Control
-- CI/CD Fundamentals
-- API Development
-- Model Monitoring
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
-
-- MySQL
-- PostgreSQL
-- MongoDB
 
 ---
 
-## 🛠️ Development Tools
+### ☁️ Cloud & Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
-
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
 </p>
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Jupyter Notebook
-
----
-
-## ☁️ Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-</p>
-
-- AWS
-- Render
-- Streamlit Cloud
 
 </div>
-
 ---
 # 📊 GitHub Analytics
 
