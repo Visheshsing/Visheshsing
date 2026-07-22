@@ -89,7 +89,7 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 ---
 # 💻 Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 👨‍💻 Programming Languages
 
@@ -163,7 +163,7 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ---
@@ -171,7 +171,7 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 ### ☁️ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
 </p>
 
 </div>
@@ -189,16 +189,6 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Visheshsing&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Visheshsing&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -282,7 +272,7 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 
 # 🌱 Currently Learning
 
-<div align="center">
+<div align="left">
 
 | 🤖 AI & GenAI | 📊 Data Analytics | ⚙️ MLOps | ☁️ Cloud |
 |:-------------:|:-----------------:|:--------:|:--------:|
@@ -311,7 +301,7 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 
 # 📖 Featured Technologies
 
-<div align="center">
+<div align="left">
 
 | AI & ML | Data | Backend | Deployment |
 |---------|------|----------|------------|
