@@ -232,9 +232,9 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<div align="left">
 
-> **Note:** This animation requires a GitHub Action to generate automatically.
+> **Note:** KUCH GADBAD H SAHI HOGA KABHI.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Visheshsing/Visheshsing/output/github-contribution-grid-snake-dark.svg">
@@ -248,7 +248,7 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 
 # 📌 Pinned Repositories
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/Visheshsing/AI-Data-Analyst-Agent">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visheshsing&repo=AI-Data-Analyst-Agent&theme=tokyonight&hide_border=true"/>
@@ -346,7 +346,7 @@ MLOps                 ██████████████░░░░░�
 
 # 📫 Let's Connect
 
-<div align="center">
+<div align="left">
 
 <a href="mailto:specialvish8840@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -364,19 +364,9 @@ MLOps                 ██████████████░░░░░�
 
 ---
 
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Visheshsing&style=for-the-badge&color=blue"/>
-
-</div>
-
----
-
 # ✨ Thanks for Visiting!
 
-<div align="center">
+<div align="left">
 
 ### ⭐ If you like my work, consider following my journey and exploring my repositories!
 
