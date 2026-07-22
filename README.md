@@ -1,38 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Vishesh Singh
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vishesh Singh
 
-### AI/ML Engineer • Data Scientist • Data Analyst
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions+for+Real+World+Problems" />
 
-<img src="images/profile.png" width="220" alt="Vishesh Singh"/>
+### Transforming Data into Intelligent Solutions 🚀
 
-<br><br>
-
-<table>
-<tr>
-<td align="center">🤖 <b>Artificial Intelligence</b></td>
-<td align="center">📊 <b>Data Science</b></td>
-<td align="center">📈 <b>Data Analytics</b></td>
-</tr>
-
-<tr>
-<td align="center">🧠 <b>Machine Learning</b></td>
-<td align="center">💬 <b>Generative AI</b></td>
-<td align="center">⚙️ <b>MLOps</b></td>
-</tr>
-</table>
-
-<br>
-
-🚀 Transforming Data into Intelligent Solutions
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Visheshsing&label=Profile%20Views&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Visheshsing?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Visheshsing?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Visheshsing&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -40,19 +14,15 @@
 
 # 👨‍💻 About Me
 
-<img width="1254" height="1254" alt="ChatGPT Image Jul 22, 2026, 06_43_41 PM" src="https://github.com/user-attachments/assets/e138e827-7534-4070-b77d-cd68a8e6641a" />
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 🎓 B.Tech in Computer Science
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
+🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
-📊 I enjoy solving real-world business problems by transforming data into meaningful insights and intelligent applications.
+📊 Interested in solving business problems using Data Analytics, Machine Learning and Generative AI.
 
-💡 My interests span across Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, and Data Analytics.
-
-🌱 I believe in continuous learning and building practical projects that bridge the gap between theory and industry.
-
----
+💡 Currently building AI-powered applications using modern LLM frameworks.
 
 ## 🎯 Career Goal
 
