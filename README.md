@@ -1,8 +1,12 @@
-<div align="left">
+<h2 align="left">👋 Hi, I'm Vishesh Singh</h2>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vishesh Singh
+<h3 align="left">
+AI / ML Engineer | Data Scientist | Data Analyst
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions+for+Real+World+Problems" />
+<p align="left">
+Passionate about building intelligent AI solutions using Machine Learning, Generative AI, Data Analytics, and MLOps.
+</p>
 
 ### Transforming Data into Intelligent Solutions 🚀
 
