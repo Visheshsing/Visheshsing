@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.licdn.com/dms/image/v2/D4D03AQFgVKCwh518Lg/profile-displayphoto-scale_400_400/B4DZ.JlijnIIAg-/0/1784719749137?e=1786579200&v=beta&t=0aIfyhb9-7UqS32tQdOcPxe1ptGazaFBYm4tbwEwS20)" width="35"> Hi there, I'm Vishesh Singh
+# <img src="https://chatgpt.com/s/m_6a60a53ce2848191a445fed1ab17cb6f" width="35"> Hi there, I'm Vishesh Singh
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI+Developer;Machine+Learning+Enthusiast;Building+Intelligent+AI+Solutions" />
 
