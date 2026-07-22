@@ -22,7 +22,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="380" src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.licdn.com/dms/image/v2/D4D03AQFgVKCwh518Lg/profile-displayphoto-scale_400_400/B4DZ.JlijnIIAg-/0/1784719749137?e=1786579200&v=beta&t=0aIfyhb9-7UqS32tQdOcPxe1ptGazaFBYm4tbwEwS20)">
+<img width="1254" height="1254" alt="ChatGPT Image Jul 22, 2026, 06_43_41 PM" src="https://github.com/user-attachments/assets/e138e827-7534-4070-b77d-cd68a8e6641a" />
 
 🎓 B.Tech in Computer Science
 
