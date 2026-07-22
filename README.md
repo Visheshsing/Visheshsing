@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Vishesh Singh
+# <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.licdn.com/dms/image/v2/D4D03AQFgVKCwh518Lg/profile-displayphoto-scale_400_400/B4DZ.JlijnIIAg-/0/1784719749137?e=1786579200&v=beta&t=0aIfyhb9-7UqS32tQdOcPxe1ptGazaFBYm4tbwEwS20)" width="35"> Hi there, I'm Vishesh Singh
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI+Developer;Machine+Learning+Enthusiast;Building+Intelligent+AI+Solutions" />
 
@@ -42,43 +42,27 @@ To become a highly skilled AI/ML Engineer and Data Scientist who designs intelli
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- 🤖 Large Language Models (LLMs)
-- 🔗 LangChain
-- 🕸️ LangGraph
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ MLOps
-- ☸️ Kubernetes
-- 📊 Advanced SQL
-- 📈 Power BI
-- ☁️ Cloud Deployment
+<div align="center">
 
----
+<p>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-6E57E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+</p>
 
-## 💬 Ask Me About
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloud%20Deployment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-- Python
-- SQL
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- Data Analytics
-- Power BI
-- FastAPI
-- Streamlit
-
----
-
-## 🚀 Current Focus
-
-- 🤖 Building AI Agents
-- 📊 End-to-End Data Science Projects
-- 📈 Data Analytics Dashboards
-- 🧠 Generative AI Applications
-- ⚙️ Production-ready ML Pipelines
-- 🌍 Open Source Contributions
+</div>
 
 ---
 
