@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="Vishesh Singh Banner" width="100%">
 </p>
-# 👋 Hi, I'm Vishesh Singh
+👋 Hi, I'm Vishesh Singh
 
 ### AI / ML Engineer | Data Scientist | Data Analyst
 
