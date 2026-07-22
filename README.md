@@ -1,16 +1,10 @@
-<h2 align="left">👋 Hi, I'm Vishesh Singh</h2>
+# 👋 Hi, I'm Vishesh Singh
 
-<h3 align="left">
-AI / ML Engineer | Data Scientist | Data Analyst
-</h3>
+### AI / ML Engineer | Data Scientist | Data Analyst
 
-<p align="left">
-Passionate about building intelligent AI solutions using Machine Learning, Generative AI, Data Analytics, and MLOps.
-</p>
+Building intelligent AI solutions using **Machine Learning**, **Generative AI**, **Data Analytics**, and **MLOps**.
 
 ### Transforming Data into Intelligent Solutions 🚀
-
-<img src="https://komarev.com/ghpvc/?username=Visheshsing&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
