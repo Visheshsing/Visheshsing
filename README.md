@@ -1,20 +1,38 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  Hi there, I'm Vishesh Singh
+# 👋 Hi, I'm Vishesh Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Data+Scientist;Data+Analyst;Generative+AI+Developer;Machine+Learning+Enthusiast;Building+Intelligent+AI+Solutions" />
+### AI/ML Engineer • Data Scientist • Data Analyst
 
-### 🚀 Transforming Data into Intelligent Solutions
+<img src="images/profile.png" width="220" alt="Vishesh Singh"/>
 
-<img src="https://komarev.com/ghpvc/?username=Visheshsing&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br><br>
 
-<a href="https://github.com/Visheshsing">
-<img src="https://img.shields.io/github/followers/Visheshsing?style=for-the-badge&logo=github"/>
-</a>
+<table>
+<tr>
+<td align="center">🤖 <b>Artificial Intelligence</b></td>
+<td align="center">📊 <b>Data Science</b></td>
+<td align="center">📈 <b>Data Analytics</b></td>
+</tr>
 
-<a href="https://github.com/Visheshsing?tab=repositories">
+<tr>
+<td align="center">🧠 <b>Machine Learning</b></td>
+<td align="center">💬 <b>Generative AI</b></td>
+<td align="center">⚙️ <b>MLOps</b></td>
+</tr>
+</table>
+
+<br>
+
+🚀 Transforming Data into Intelligent Solutions
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Visheshsing&label=Profile%20Views&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Visheshsing?style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/stars/Visheshsing?affiliations=OWNER&style=for-the-badge"/>
-</a>
 
 </div>
 
